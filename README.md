@@ -1,5 +1,5 @@
 Lab 10
-Due: Mon Nov 23 11:59pm
+
 
 Problem
 The file morsecode.txt (accompanying this handout) contains the Morse code translation for letters A to Z, digits 0 to 9, and some punctuation symbols. Write a program that loads this file into a dictionary obect that maps Morse code symbols to their corresponding letter, digit, or punctuation symbol. The program should then ask the user for the name of a file containing Morse code and, using the dictionary, decode its contents to the console. Use the files morse1.txt, morse2.txt, and morse3.txt (accopanying this handout) to test your program.
